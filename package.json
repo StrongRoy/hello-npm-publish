@@ -1,13 +1,13 @@
 {
-  "name": "hello-npm",
+  "name": "hello-npm-publish",
   "version": "1.0.0",
-  "description": "",
+  "description": "npm pusblis test",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "richiewen<richiewen8@gmail.com>",
   "license": "ISC",
   "dependencies": {
     "moment": "^2.21.0"
